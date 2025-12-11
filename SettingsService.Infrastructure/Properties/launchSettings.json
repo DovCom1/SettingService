@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SettingsService.Infrastructure": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
