@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SettignsService.Application": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
